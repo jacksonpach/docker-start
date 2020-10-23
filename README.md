@@ -7,6 +7,8 @@
 - MySQL 8
 - Redis
 ##### Run in terminal
--  sudo docker-compose build
--  sudo docker-compose up -d
+```sh
+sudo docker-compose build
+sudo docker-compose up -d 
+```
 
